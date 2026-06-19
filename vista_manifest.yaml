@@ -4,7 +4,7 @@ repository:
   name: "test-fm-001-pr-comment-test"
   full_name: "testveracode/test-fm-001-pr-comment-test"
   branch: "test_pr_br"
-  commit_sha: "1baf0889b73e649b563427271e3615c8e709d256"
+  commit_sha: "f9e9cca4e0f686714d50a94d80f123604db403d3"
 
 business_application:
   name: "test_new_app"
@@ -18,4 +18,4 @@ veracode:
 vista:
   managed: true
   generated_by: "vista-context-resolver"
-  generated_at: "2026-06-19T10:22:53.035Z"
+  generated_at: "2026-06-19T10:24:43.101Z"
