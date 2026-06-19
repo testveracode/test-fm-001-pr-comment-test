@@ -1,0 +1,21 @@
+version: 1
+
+repository:
+  name: "test-fm-001-pr-comment-test"
+  full_name: "testveracode/test-fm-001-pr-comment-test"
+  branch: "test_pr_br"
+  commit_sha: "608739d5fd35d642461d8c5f4a23cdd9b5e0e144"
+
+business_application:
+  name: "test_new_app"
+  criticality: "HIGH"
+
+veracode:
+  profile_name: "test_new_app"
+  policy_name: "Sysco Very High and High Vulnerability Protect"
+  app_guid: "254f9d65-bd52-49ab-a8ea-f15dc1106f68"
+
+vista:
+  managed: true
+  generated_by: "vista-context-resolver"
+  generated_at: "2026-06-19T10:28:44.864Z"
